@@ -1,0 +1,15 @@
+{
+  "ignoredFiles": [
+    "session.lock"
+  ],
+  "lang": "es_es",
+  "scheduleBackup": true,
+  "scheduleCron": "* * 0/4 * * ?",
+  "scheduleInterval": 14400,
+  "scheduleMode": "interval",
+  "maxScheduleBackup": 10,
+  "autoRestartMode": "DEFAULT",
+  "useInternalDataBase": true,
+  "mongoDBUri": "mongodb://localhost:27017",
+  "storagePath": "QuickBackupMulti"
+}

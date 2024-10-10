@@ -1,0 +1,56 @@
+{
+  "merchantShop": {
+    "balls": {
+      "cobblemon:poke_ball": 1000,
+      "cobblemon:citrine_ball": 1000,
+      "cobblemon:verdant_ball": 1000,
+      "cobblemon:azure_ball": 1000,
+      "cobblemon:roseate_ball": 1000,
+      "cobblemon:slate_ball": 1000,
+      "cobblemon:premier_ball": 1000,
+      "cobblemon:great_ball": 2000,
+      "cobblemon:ultra_ball": 2500,
+      "cobblemon:safari_ball": 1500,
+      "cobblemon:fast_ball": 1500,
+      "cobblemon:level_ball": 1500,
+      "cobblemon:lure_ball": 1500,
+      "cobblemon:heavy_ball": 1500,
+      "cobblemon:love_ball": 1500,
+      "cobblemon:friend_ball": 1500,
+      "cobblemon:moon_ball": 1500,
+      "cobblemon:sport_ball": 1500,
+      "cobblemon:park_ball": 1500,
+      "cobblemon:net_ball": 2500,
+      "cobblemon:dive_ball": 2500,
+      "cobblemon:nest_ball": 2500,
+      "cobblemon:repeat_ball": 2500,
+      "cobblemon:timer_ball": 2500,
+      "cobblemon:luxury_ball": 10000,
+      "cobblemon:dusk_ball": 4000,
+      "cobblemon:heal_ball": 1500,
+      "cobblemon:quick_ball": 2500,
+      "cobblemon:dream_ball": 3000,
+      "cobblemon:cherish_ball": 100000
+    },
+    "items": {
+      "cobblemon:exp_candy_xs": 1500,
+      "cobblemon:exp_candy_s": 3000,
+      "cobblemon:exp_candy_m": 6000,
+      "cobblemon:exp_candy_l": 10000,
+      "cobblemon:exp_candy_xl": 14000,
+      "cobblemon:rare_candy": 18000,
+      "cobblemon:hp_up": 5000,
+      "cobblemon:carbos": 5000,
+      "cobblemon:protein": 5000,
+      "cobblemon:iron": 5000,
+      "cobblemon:calcium": 5000,
+      "cobblemon:pp_up": 5000,
+      "cobblemon:zinc": 5000
+    }
+  },
+  "bankItems": {
+    "minecraft:emerald": 500,
+    "minecraft:iron_ingot": 250,
+    "minecraft:iron_block": 2500
+  }
+}

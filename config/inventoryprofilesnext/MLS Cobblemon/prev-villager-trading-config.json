@@ -1,0 +1,149 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+            {
+                "resultItem": "minecraft:golden_carrot",
+                "priceItem1": "minecraft:emerald"
+            }
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+            {
+                "resultItem": "cobblemon:white_apricorn",
+                "priceItem1": "minecraft:iron_nugget"
+            },
+            {
+                "resultItem": "cobblemon:ultra_ball",
+                "priceItem1": "minecraft:iron_nugget",
+                "priceItem2": "minecraft:gold_nugget"
+            },
+            {
+                "resultItem": "cobblemon:exp_candy_xl",
+                "priceItem1": "minecraft:diamond"
+            }
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+            {
+                "resultItem": "minecraft:emerald",
+                "priceItem1": "minecraft:iron_ingot"
+            }
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ],
+        "woodworker": [
+        ],
+        "oceanographer": [
+        ],
+        "netherian": [
+        ],
+        "enderian": [
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ],
+        "woodworker": [
+        ],
+        "oceanographer": [
+        ],
+        "netherian": [
+        ],
+        "enderian": [
+        ]
+    },
+    "globalBookmarks2": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ],
+        "woodworker": [
+        ],
+        "oceanographer": [
+        ],
+        "netherian": [
+        ],
+        "enderian": [
+        ]
+    }
+}

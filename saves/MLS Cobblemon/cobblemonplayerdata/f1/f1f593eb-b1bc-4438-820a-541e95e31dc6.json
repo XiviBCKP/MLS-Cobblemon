@@ -1,0 +1,176 @@
+{
+  "uuid": "f1f593eb-b1bc-4438-820a-541e95e31dc6",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "61ebb367-60f3-4a28-879a-2b844f46e255",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "mudkip": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724423719002,
+            "caughtTimestamp": 1724423719002
+          }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724425433845,
+            "caughtTimestamp": 1724425433845
+          }
+        },
+        "marshtomp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724425450281,
+            "caughtTimestamp": 1724425450281
+          }
+        },
+        "golurk": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724426067968,
+            "caughtTimestamp": 1724426067968
+          }
+        },
+        "noibat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724525936997,
+            "caughtTimestamp": 1724525936997
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724527034043,
+            "caughtTimestamp": 1724527034043
+          }
+        },
+        "axew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724527454366,
+            "caughtTimestamp": 1724527454366
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    },
+    "koStreak": {
+      "name": "koStreak",
+      "species": "pidgeotto",
+      "count": 1
+    },
+    "koCount": {
+      "name": "koCount",
+      "defeats": {
+        "zubat": 3,
+        "yungoos": 1,
+        "sentret": 1,
+        "lechonk": 1,
+        "cubone": 1,
+        "rhyhorn": 1,
+        "noibat": 1,
+        "gligar": 1,
+        "pidgeotto": 1
+      }
+    },
+    "captureStreak": {
+      "name": "captureStreak",
+      "species": "axew",
+      "count": 1
+    },
+    "captureCount": {
+      "name": "captureCount",
+      "defeats": {
+        "mudkip": 1,
+        "gastly": 1,
+        "marshtomp": 1,
+        "golurk": 1,
+        "noibat": 1,
+        "mareep": 1,
+        "axew": 1
+      }
+    },
+    "encounter": {
+      "name": "encounter",
+      "encounters": {
+        "mudkip": true,
+        "zubat": true,
+        "yungoos": true,
+        "koffing": true,
+        "sentret": true,
+        "lechonk": true,
+        "mareep": true,
+        "gastly": true,
+        "marshtomp": true,
+        "beldum": true,
+        "golurk": true,
+        "cubone": true,
+        "rhyhorn": true,
+        "golett": true,
+        "noibat": true,
+        "gligar": true,
+        "axew": true
+      }
+    },
+    "cobblenavPlayerStatsData": {
+      "name": "cobblenavPlayerStatsData",
+      "totalPvpCount": 0,
+      "startDate": 1724423719002,
+      "grantedBadges": [],
+      "pokemonUsage": {
+        "d5cf9a72-f957-4e83-85f3-ca768f72a73e": 10,
+        "dd0d955b-33a8-4d97-bf07-767b5489f2e8": 6,
+        "262fedac-82e9-4be2-a28e-a0cffdedb7c3": 9,
+        "61ebb367-60f3-4a28-879a-2b844f46e255": 16
+      }
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 5,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 10,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 10,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "ghost": 2,
+      "poison": 1,
+      "ground": 1,
+      "flying": 1,
+      "dragon": 2,
+      "electric": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:zubat": 3,
+      "cobblemon:yungoos": 1,
+      "cobblemon:sentret": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:cubone": 1,
+      "cobblemon:rhyhorn": 1,
+      "cobblemon:noibat": 1,
+      "cobblemon:gligar": 1
+    },
+    "aspectsCollected": {}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "broadcastShiny": true,
+  "broadcastCoords": true,
+  "broadcastBiome": false,
+  "playShinySound": true,
+  "playShinySoundPlayer": false,
+  "announceCrossDimensions": true,
+  "broadcastDespawns": true,
+  "broadcastVolatileDespawns": false,
+  "broadcastRange": -1,
+  "playerLimit": -1,
+  "labelsForBroadcast": [
+    "legendary",
+    "ultrabeast",
+    "sublegendary",
+    "sub-legendary",
+    "mythical",
+    "ultra_beast"
+  ],
+  "bucketsForBroadcast": [],
+  "formatting": {}
+}

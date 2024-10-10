@@ -1,0 +1,56 @@
+{
+  "uuid": "ad85c135-a182-4a5e-aab3-7236e3fb1bb0",
+  "starterPrompted": false,
+  "starterLocked": false,
+  "starterSelected": false,
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {},
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    },
+    "koStreak": {
+      "name": "koStreak",
+      "species": "",
+      "count": 0
+    },
+    "koCount": {
+      "name": "koCount",
+      "defeats": {}
+    },
+    "captureStreak": {
+      "name": "captureStreak",
+      "species": "",
+      "count": 0
+    },
+    "captureCount": {
+      "name": "captureCount",
+      "defeats": {}
+    },
+    "encounter": {
+      "name": "encounter",
+      "encounters": {
+        "pidove": true
+      }
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {},
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {}
+  }
+}

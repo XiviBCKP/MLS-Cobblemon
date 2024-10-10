@@ -1,0 +1,83 @@
+{
+  "uuid": "7d5a1f0e-baa1-429a-95e5-dddc9b2e25dc",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "77ebf43f-c90d-48b5-9f75-7cded59bdaa2",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "cyndaquil": {
+          "hisuibias": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1724769805765,
+            "caughtTimestamp": 1724769805765
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    },
+    "koStreak": {
+      "name": "koStreak",
+      "species": "geodude",
+      "count": 1
+    },
+    "koCount": {
+      "name": "koCount",
+      "defeats": {
+        "geodude": 1
+      }
+    },
+    "captureStreak": {
+      "name": "captureStreak",
+      "species": "",
+      "count": 0
+    },
+    "captureCount": {
+      "name": "captureCount",
+      "defeats": {
+        "cyndaquil": 1
+      }
+    },
+    "encounter": {
+      "name": "encounter",
+      "encounters": {
+        "cyndaquil": true,
+        "geodude": true,
+        "kakuna": true
+      }
+    },
+    "cobblenavPlayerStatsData": {
+      "name": "cobblenavPlayerStatsData",
+      "totalPvpCount": 0,
+      "startDate": 1724769805765,
+      "grantedBadges": [],
+      "pokemonUsage": {
+        "77ebf43f-c90d-48b5-9f75-7cded59bdaa2": 2
+      }
+    }
+  },
+  "advancementData": {
+    "totalCaptureCount": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 1,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 1,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {},
+    "totalDefeatedCounts": {
+      "cobblemon:geodude": 1
+    },
+    "aspectsCollected": {}
+  }
+}
