@@ -1,0 +1,2 @@
+Cobblemon-fabric-1.5.2+1.20.1.jar filter=lfs diff=lfs merge=lfs -text
+Generations-Core-fabric-4.0.2-Beta.jar filter=lfs diff=lfs merge=lfs -text
